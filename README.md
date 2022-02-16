@@ -1,2 +1,0 @@
-# fist-repo
-primeiro project
